@@ -1,0 +1,19 @@
+body {
+	background-color: #000000/*#0078d7*/;
+	overflow: auto;
+}
+
+#world {
+	margin: auto;
+	width: max-content;
+	line-height: 100%; 
+}
+
+.block {
+	font-size: xx-large;
+	display: inline-block;
+	width: 34px;
+	
+	text-align: center;
+	line-height: 34px; 
+}
